@@ -1,4 +1,4 @@
-## Assignment #1 Unix System Calls and Library Functions:
+## Unix System Calls and Library Functions:
 
 The goal of this homework is to become familiar with the environment in hoare while practising system calls. I’ll like to see the use of perror and getopt in this submission.
 
