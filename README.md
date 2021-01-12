@@ -42,10 +42,3 @@ where proc_fan is actually the name of the executable (argv[0]) that you are try
 * <ul> $ ./runsim 2 < fast.data </ul>
   <ul>or</ul>
   <ul> $ ./runsim 2 < testing.data </ul>
-
-## Version Control
-
- version control:[link](https://github.com/mukka29/Operating-Systems.git)
- or
- https://github.com/mukka29/Operating-Systems.git
-
